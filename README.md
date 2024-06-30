@@ -13,5 +13,6 @@ Features
         Sort: Sort dish records in ascending order.
 
   -This project was completed during my freshman year, with contributions from some of my classmates. Due to privacy reasons, their names are not mentioned here.
-  
+
+  Safia Babiker
   2022
